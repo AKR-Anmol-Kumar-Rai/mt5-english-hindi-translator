@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def data_cleaning(text):
     text = text.lower().strip()
     return text
@@ -27,7 +27,6 @@ def translate_text(text, model, tokenizer, device):
         skip_special_tokens=True
     )
 
-=======
 def data_cleaning(text):
     text = text.lower().strip()
     return text
@@ -55,6 +54,4 @@ def translate_text(text, model, tokenizer, device):
         outputs[0],
         skip_special_tokens=True
     )
-
->>>>>>> 8b1eac7 (Initial commit)
     return translation
