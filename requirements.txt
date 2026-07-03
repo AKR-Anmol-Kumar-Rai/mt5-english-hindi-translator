@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+streamlit
+torch
+transformers
+sentencepiece
+=======
+streamlit
+torch
+transformers
+sentencepiece
+>>>>>>> 8b1eac7 (Initial commit)
+protobuf

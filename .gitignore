@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+=======
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+>>>>>>> 8b1eac7 (Initial commit)
+.DS_Store
